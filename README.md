@@ -6,6 +6,8 @@
 ### Mes projets actuels 
 - [BenderList](http://benderlist.com/)
 - [SaturneGen Template](https://saturnegen.com/)
+- [Skip-Share](https://skip-share.com/)
+- [ZonelyFans](https://zonely-fans.com/)
 
 ### Mes anciens projets 
 - French-Cracking
